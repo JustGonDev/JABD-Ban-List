@@ -1,6 +1,8 @@
 {
-    "100034811502390": {
-        "reason": "test",
-        "proof": "test"
+    "facebook": {
+        "100034811502390": {
+            "reason": "test",
+            "proof": "test"
+        }
     }
 }
