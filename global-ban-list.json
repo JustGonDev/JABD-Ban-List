@@ -1,8 +1,12 @@
 {
   "facebook": {
-      "100034811502390": {
-            "reason": "test",
-            "noAdding": true
-    }
+    "100034811502390": {
+      "reason": "test",
+      "noAdding": true
+    },
+    "100040841925876": {
+      "reason": "test",
+      "noAdding": true
+    },
   }
 }
