@@ -4,5 +4,11 @@
       "reason": "test",
       "noAdding": true
     }
+  },
+  "telegram: {
+  "0": {
+    "reason": "test",
+      "noAdding": true
+    }
   }
 }
